@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "319710447950",
+    "project_id": "redbus-3ec46",
+    "storage_bucket": "redbus-3ec46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319710447950:android:4626930bf01dc19fa2f61f",
+        "android_client_info": {
+          "package_name": "com.cargurus.userapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiwebltRgWVv7i_i5ReeoY1K3UKwwF2FU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319710447950:android:e1e88fb7f945156ba2f61f",
+        "android_client_info": {
+          "package_name": "com.cscodetech.zigzag"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiwebltRgWVv7i_i5ReeoY1K3UKwwF2FU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
